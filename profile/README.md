@@ -1,8 +1,16 @@
+<br>
+<div align="center">
+
 # Recover a golden sleep with your phone.
+A serverless application to get dynamically generated images from your LinkedIn profile on your GitHub READMEs!
+
+</div>
+
 ## Presentation
 More and more people of all ages fall asleep on their phones, reducing their sleep time. This most
-often results in a lack of efficiency in their day and a feeling of constant fatigue. Sleewell helps you
-regain a golden sleep by turning your distraction into a real smart alarm clock ! By the simple action of
+often results in a lack of efficiency in their day and a feeling of constant fatigue. 
+
+Sleewell helps you regain a golden sleep by turning your distraction into a real smart alarm clock ! By the simple action of
 putting your phone on our base, your alarm clock will activate automatically and cut all distractions to
 help you fall asleep. In addition, a personalized routine system provides you tools for falling asleep,
 such as ambient sounds or a halo of light that will help you regulate your breathing. Wake up gradually
@@ -16,3 +24,15 @@ Compared to the various sleep applications that already exist, Sleewell brings i
 environment. With a simple gesture, by placing it on our base, the phone turns into a real alarm clock
 and cuts off any distractions that may prevent falling asleep. In addition, Sleewell provides tools to
 improve your sleep, with analysis of your nights by our Artificial Intelligence and sleep aids.
+
+## Technologies
+- Kotlin
+- Python
+- Php
+- Javascript
+- MySQL
+
+### Networks
+- [linkedIn](https://www.linkedin.com/company/36982299/)
+- [Instagram](https://www.instagram.com/sleewell_/)
+- [Twitter](https://twitter.com/sleewell)
