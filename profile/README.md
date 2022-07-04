@@ -17,7 +17,7 @@ such as ambient sounds or a halo of light that will help you regulate your breat
 to the most optimal time detected by our AI to start your day in good shape. Retrieve all your recorded
 sleep data using our AI and track your statistics throughout the year.
 
-You can find a recorder presentation done on the Epitech Expérience 2022 edition [live event](https://www.youtube.com/watch?v=a2GkneG9_oM&t=12313s)
+You can find a recorded presentation done on the Epitech Expérience 2022 edition [live event](https://www.youtube.com/watch?v=a2GkneG9_oM&t=12313s)
 
 ## Innovation
 Compared to the various sleep applications that already exist, Sleewell brings interaction with the
